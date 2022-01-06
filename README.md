@@ -13,7 +13,7 @@
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tallos-chat.s3.tallos.com.br/medias/5b22a32251f42274df4c6c86-image-05-01-2022-20-59-56-download20220103204920-d48.webp?width=676&height=676">
+    <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://tallos-chat.s3.tallos.com.br/medias/5b22a32251f42274df4c6c86-image-05-01-2022-20-59-56-download20220103204920-d48.webp">
   </div>
   
   
