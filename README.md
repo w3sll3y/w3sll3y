@@ -7,13 +7,14 @@
 </div>
   
   <div style="display: inline_block"><br>
-    <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Wesley-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
+    <img align="center" alt="Wesley-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img align="center" alt="Wesley-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     
-    
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tallos-chat.s3.tallos.com.br/medias/5b22a32251f42274df4c6c86-image-05-01-2022-20-59-56-download20220103204920-d48.webp">
-</div>
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://tallos-chat.s3.tallos.com.br/medias/5b22a32251f42274df4c6c86-image-05-01-2022-20-59-56-download20220103204920-d48.webp?width=676&height=676">
+  </div>
   
   
   ##
