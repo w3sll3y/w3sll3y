@@ -1,6 +1,12 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Wesley </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3sll3y11&color=yellow" alt="Profile views" /> </p>
-  
+
+- 🔭 I’m currently working at [Tallos](https://tallos.com.br)
+
+- 🔥 Junior Web Developer
+
+- 📝 I’m currently studying english and react
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
