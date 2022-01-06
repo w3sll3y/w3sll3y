@@ -20,6 +20,8 @@
     
   </div>
   
+  <br>
+  
 ## ⚙️ &nbsp;GitHub Analytics
   
   <p align="left">
