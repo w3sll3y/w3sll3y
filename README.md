@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="10px">, I'm Wesley </h1>
+<h1 align="left">Hi, I'm Wesley </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3sll3y11&color=yellow" alt="Profile views" /> </p>
 
 - 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/pt/)
