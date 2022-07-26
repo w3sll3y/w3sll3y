@@ -1,13 +1,11 @@
 <h1 align="left">Hi, I'm Wesley </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3sll3y11&color=yellow" alt="Profile views" /> </p>
 
-- 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/pt/)
 
+### :book: About me:
+- 🌱 I’m currently studying english and react, nodejs, typescript.
+- 📧 Fernandess.weslley@gmail.com
 - 🔥 QA Pleno
-
-- 📝 I’m currently studying english and react, nodejs, typescript
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -34,10 +32,20 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sll3y&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sll3y&layout=compact&langs_count=7&theme=radical"/>
   </p>
-
-  ## 👨🏽‍🦲 &nbsp;Social Links
   
-  <div>
+##
+
+### ▶️:  Social Links:
+  
+   
+ <div>
   <a href="https://www.instagram.com/weslley_all/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
+ ##
+ ### :snake:  Commit Snake
+   
+   ![snake gif](https://github.com/w3sll3y/w3sll3y/blob/output/github-contribution-grid-snake.gif)
+   
+</div>
+
