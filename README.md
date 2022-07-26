@@ -3,7 +3,7 @@
 
 
 ### :book: About me:
-- 🌱 I’m currently studying english and react, nodejs, typescript.
+- 🌱 I’m currently studying english, react, nodejs and typescript.
 - 📧 Fernandess.weslley@gmail.com
 - 🔥 QA Pleno
 
