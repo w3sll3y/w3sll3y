@@ -45,7 +45,7 @@
  ##
  ### :snake:  Commit Snake
    
-   ![snake gif](https://github.com/w3sll3y/w3sll3y/blob/output/github-contribution-grid-snake.gif)
+   ![snake gif](https://github.com/w3sll3y/w3sll3y/blob/output/github-contribution-grid-snake.svg)
    
 </div>
 
