@@ -43,7 +43,7 @@
  <div>
   <a href="https://www.instagram.com/weslley_all/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/wesley-fernandess/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=informational" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/wesley-fernandess/" target="_blank"><img src="https://img.shields.io/badge/Blog-PORTFOLIO-%237159c1?style=for-the-badge&logo=ghost" target="_blank"></a>
 
  ##
  ### :snake:  Commit Snake
