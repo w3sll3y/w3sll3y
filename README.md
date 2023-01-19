@@ -1,11 +1,11 @@
-<h1 align="left">Hi, I'm Wesley </h1>
+<h1 align="left">Hi there! I'm Wesley </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3sll3y11&color=yellow" alt="Profile views" /> </p>
 
 
 ### :book: About me:
-- 🌱 I’m currently studying english, react, nodejs and typescript.
+- 🌱 I'm currently working as mobile app developer with React Native.
 - 📧 Fernandess.weslley@gmail.com
-- 🔥 QA Pleno
+- 🔥 Mobile developer
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -21,7 +21,7 @@
     <img align="center" alt="Wesley-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" alt="Wesley-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Wesley-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-    <img align="center" alt="Wesley-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<!--     <img align="center" alt="Wesley-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
 
     
   </div>
@@ -43,6 +43,7 @@
  <div>
   <a href="https://www.instagram.com/weslley_all/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/wesley-fernandess/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wesley-fernandess/" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=PORTFOLIO&color=informational" target="_blank"></a>
 
  ##
  ### :snake:  Commit Snake
