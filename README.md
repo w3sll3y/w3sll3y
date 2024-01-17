@@ -3,9 +3,9 @@
 
 
 ### :book: About me:
-- 🌱 I'm currently working as mobile app developer with React Native.
-- 📧 Fernandess.weslley@gmail.com
 - 🔥 Software Engineer | CLF-C01
+- 🌱 I'm currently working as mobile app developer with React Native, Styled-Components and Typescript.
+- 📧 fernandess.weslley@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
 
