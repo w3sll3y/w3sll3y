@@ -5,11 +5,14 @@
 ### :book: About me:
 - 🌱 I'm currently working as mobile app developer with React Native.
 - 📧 Fernandess.weslley@gmail.com
-- 🔥 Mobile developer
+- 🔥 Software Engineer | CLF-C01
 
 ## 🛠 &nbsp;Tech Stack
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block">
+    <a href="https://www.credly.com/badges/6930c355-ded7-445b-a34d-1811f7f7cca2/public_url" target="_blank">
+      <img alt="Wesley-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" /></a>
+    <br>
     <img align="center" alt="Wesley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Wesley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Wesley-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -21,6 +24,8 @@
     <img align="center" alt="Wesley-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     <img align="center" alt="Wesley-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
     <img align="center" alt="Wesley-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+    
     <!--     <img align="center" alt="Wesley-NestJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" /> -->
 
     
