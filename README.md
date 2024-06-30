@@ -1,4 +1,4 @@
-<h1 align="left">Hi there! I'm Wesley </h1>
+<h1 align="left">👋 Hi there! I'm Wesley. </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w3sll3y11&color=yellow" alt="Profile views" /> </p>
 
 
