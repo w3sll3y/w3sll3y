@@ -4,7 +4,7 @@
 
 ### :book: About me:
 - 🔥 Software Engineer | CLF-C01
-- 🌱 I've been worked as Software Developer with ReactJS, React Native, Styled-Components and Typescript to Front End and NodeJS, NestJS, Prisma, Docker, PostgreSQL to Back End.
+- 🌱 I've been worked as a Software Developer with ReactJS, React Native, Styled-Components and Typescript to Front End and NodeJS, NestJS, Prisma, Docker, PostgreSQL to Back End.
 - 📧 fernandess.weslley@gmail.com
 
 ## 🛠 &nbsp;Tech Stack
