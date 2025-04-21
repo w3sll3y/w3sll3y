@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=w3sll3y11&color=yellow" alt="Profile views" /> 
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/w3sll3y11?label=Followers&style=social"> 
-  <img src="https://img.shields.io/github/stars/w3sll3y11?label=Stars" alt="Total Stars">
+  <img src="https://komarev.com/ghpvc/?username=w3sll3y&color=yellow" alt="Profile views" /> 
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/w3sll3y?label=Followers&style=social"> 
+  <img src="https://img.shields.io/github/stars/w3sll3y?label=Stars" alt="Total Stars">
 </p>
 
 <details>
@@ -45,16 +45,16 @@
 </details>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sll3y11&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sll3y11&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sll3y&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sll3y&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3sll3y11&theme=radical" alt="w3sll3y11" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3sll3y&theme=radical" alt="w3sll3y" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/w3sll3y11/w3sll3y11/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/w3sll3y/w3sll3y/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 <h3 align="center">📫 Let's Connect</h3>
