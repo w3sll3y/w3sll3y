@@ -5,6 +5,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=w3sll3y&color=yellow" alt="Profile views" /> 
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/w3sll3y?label=Followers&style=social"> 
+  <img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-orange" alt="AWS Certified"> 
 </p>
 
 <details>
@@ -48,18 +49,46 @@
 
 </details>
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sll3y&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sll3y&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sll3y&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sll3y&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </p>
 
-<h3 align="center">📫 Let's Connect</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/wesley-fernandess/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:fernandess.weslley@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3sll3y&theme=radical&hide_border=true" alt="w3sll3y" />
 </p>
 
+## 🚀 Featured Projects
 
-##
- ### :snake:  Commit Snake
-   ![snake gif](https://raw.githubusercontent.com/w3sll3y/w3sll3y/main/assets/github-contribution-grid-snake.svg)
+<div align="center">
+  
+### 🔮 NestJS Kafka Microservices
+[![NestJS](https://img.shields.io/badge/NestJS-ea2845?style=for-the-badge&logo=nestjs&logoColor=white)](https://github.com/w3sll3y/nestjs-kafka)
+[![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](https://github.com/w3sll3y/nestjs-kafka)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/w3sll3y/nestjs-kafka)
+
+Event-driven microservice architecture with NestJS and Apache Kafka. Features:
+- 🏗️ Clean architecture implementation
+- 🚀 Ready-to-use Docker setup
+- 📡 Producer-consumer patterns
+- 🔄 Async communication examples
+
+</div>
+
+## 📈 Activity Graph
+[![Wesley's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=w3sll3y&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Graph)](https://github.com/w3sll3y)
+
+## 🌐 Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/wesley-fernandess/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:fernandess.weslley@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://wesley-fernandes-portfolio.surge.sh/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
+  </a>
+</p>
