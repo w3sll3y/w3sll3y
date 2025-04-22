@@ -52,11 +52,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=w3sll3y&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w3sll3y&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=w3sll3y&theme=radical&hide_border=true" alt="w3sll3y" />
 </p>
 
@@ -87,8 +82,5 @@ Event-driven microservice architecture with NestJS and Apache Kafka. Features:
   </a>
   <a href="mailto:fernandess.weslley@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://wesley-fernandes-portfolio.surge.sh/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
 </p>
